@@ -34,11 +34,11 @@
   </p>
 </div>
 
-<div id="carousel-container" style="width: 100%; overflow: hidden; position: relative;">
+<div id="carousel-container" style="width: 80%; max-width: 600px; overflow: hidden; position: relative; margin: auto;">
     <div id="carousel" style="display: flex; transition: transform 0.5s ease-in-out;">
-        <img src="picture/py4 (1).png" style="width: 100%;">
-        <img src="picture/Analyst plan case use metodelogy PDCA _page-0002.jpg" style="width: 100%;">
-        <img src="picture/Data Requirements Analysis_page-0002.jpg" style="width: 100%;">
+        <img src="picture/py4 (1).png" style="width: 100%; height: auto;">
+        <img src="picture/Analyst plan case use metodelogy PDCA _page-0002.jpg" style="width: 100%; height: auto;">
+        <img src="picture/Data Requirements Analysis_page-0002.jpg" style="width: 100%; height: auto;">
     </div>
 </div>
 
