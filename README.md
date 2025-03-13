@@ -30,23 +30,15 @@
 
   <p align="center">
     the project for data analyst
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+   
   </p>
 </div>
 
 <div id="carousel-container" style="width: 100%; overflow: hidden; position: relative;">
     <div id="carousel" style="display: flex; transition: transform 0.5s ease-in-out;">
-        <img src="gambar1.jpg" style="width: 100%;">
-        <img src="gambar2.jpg" style="width: 100%;">
-        <img src="gambar3.jpg" style="width: 100%;">
+        <img src="picture/py4 (1).png" style="width: 100%;">
+        <img src="picture/Analyst plan case use metodelogy PDCA _page-0002.jpg" style="width: 100%;">
+        <img src="picture/Data Requirements Analysis_page-0002.jpg" style="width: 100%;">
     </div>
 </div>
 
